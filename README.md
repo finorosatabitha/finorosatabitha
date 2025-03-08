@@ -34,11 +34,17 @@
 
 ---
 
-## 📊 My GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finorosatabitha&show_icons=true&theme=tokyonight&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finorosatabitha&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%" />
-</p>
+## 📊 My GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finorosatabitha&show_icons=true&theme=tokyonight&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="50%"/>
+</div>
+
+---
+
+## 🚀 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finorosatabitha&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages" width="45%"/>
+</div>
 
 ---
 
