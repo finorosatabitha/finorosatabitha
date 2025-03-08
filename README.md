@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🌱 I'm currently learning Vue.js
+
+- 👍 You can reach me on:
+  [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@tabithafs)
+
+- 😊 Pronouns: She/Her
 
 <!--
 **finorosatabitha/finorosatabitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
