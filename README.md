@@ -7,10 +7,10 @@
 ---
 
 ## 🔥 About Me  
-- 🎓 *Information Technology* student at **Universitas Sumatera Utara**  
-- 💡 Passionate about **Technology and Web Development**  
-- 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
-- 🚀 2025 Goals: **Contribute more to Open Source & Build cool projects**  
+- 🎓 I'm a passionate *Information Technology* student at **Universitas Sumatera Utara**  
+- 💡 Fascinated by how technology can transform everyday life  
+- 🧠 Exploring the intersection of **Web Development**  
+- 💪 Constantly challenging myself to solve real-world problems with code   
 
 ---
 
