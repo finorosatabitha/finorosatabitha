@@ -30,7 +30,11 @@
   <a href="https://instagram.com/tabithafs">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:finorosatabitha0405@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-%23ff69b4.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
