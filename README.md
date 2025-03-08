@@ -1,28 +1,57 @@
-## Hi there, I'm Tabitha 👋
+<h1 align="center">Hi there, I'm Tabitha 👋</h1>
 
-- 🌱 I'm currently learning Vue.js
+<p align="center">
+🌱 Currently learning <strong>Vue.js</strong> | 🎯 2025 Goals: <em>Contribute more to Open Source & Build cool projects</em>
+</p>
 
-- 👍 You can reach me on:
-  
-  [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/finorosatabitha) 
-  [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tabithafs)
+---
 
-- 😊 Pronouns: She/Her
+## 🔥 About Me  
+- 🎓 *Information Technology* student at **Universitas Sumatera Utara**  
+- 💡 Passionate about **Technology and Web Development**  
+- 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
+- 🚀 2025 Goals: **Contribute more to Open Source & Build cool projects**  
 
-- ✨ Fun fact:
-  > 🌟 I have specific music playlists for different coding scenarios! When battling bugs, I crank up rock music to power through the frustration. For learning new concepts, instrumental melodies help me focus and absorb information better. My coding quality definitely depends on my soundtrack! 🎵 💻
+---
 
-## 🚀 About Me
-•⁠  ⁠🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*  
-•⁠  ⁠💡 Passionate about *Technology and Web Development*  
-•⁠  ⁠🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*  
-•⁠  ⁠🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*  
+## 🎧 Fun Fact  
+> 🌟 I have specific music playlists for different coding scenarios!  
+> When battling bugs, I crank up rock music to power through the frustration.  
+> For learning new concepts, instrumental melodies help me focus and absorb information better.  
+> My coding quality definitely depends on my soundtrack! 🎵 💻  
 
-## My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finorosatabitha&show_icons=true&theme=dark&count_private=true)
+---
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finorosatabitha&layout=compact&theme=dark)
+## 👥 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/finorosatabitha">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/tabithafs">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finorosatabitha&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="50%"/>
+</div>
+
+---
+
+## 🚀 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finorosatabitha&layout=compact&theme=dark" alt="Most Used Languages" width="45%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=finorosatabitha&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 <!--
 **finorosatabitha/finorosatabitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
