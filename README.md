@@ -1,9 +1,6 @@
-## Hi there 👋
-- 🌱 I'm currently learning Vue.js
-
+## Hi there, I'm Tabitha 👋
 - 👍 You can reach me on:
-  [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@tabithafs)
-
+  [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tabithafs)
 - 😊 Pronouns: She/Her
 
 <!--
