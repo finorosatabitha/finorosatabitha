@@ -18,6 +18,11 @@
 •⁠  ⁠🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*  
 •⁠  ⁠🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*  
 
+## My GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=finorosatabitha&show_icons=true&theme=dark&count_private=true)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finorosatabitha&layout=compact&theme=dark)
 
 <!--
 **finorosatabitha/finorosatabitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
