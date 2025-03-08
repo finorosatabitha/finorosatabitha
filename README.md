@@ -24,7 +24,7 @@
 
 ## 👥 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/finorosatabitha">
+  <a href="https://www.linkedin.com/in/finorosa-tabitha-88399b342">
     <img src="https://img.shields.io/badge/LINKEDIN-%23ff69b4.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/tabithafs">
